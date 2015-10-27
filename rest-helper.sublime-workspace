@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conti",
+				"continue_search"
+			],
+			[
+				"authses",
+				"author_sessions"
+			],
+			[
+				"arti",
+				"articles_path	(show.html.erb)"
+			],
+			[
+				"artipa",
+				"article_params"
+			],
+			[
+				"te",
+				"tensDigit"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"ones",
+				"onesDigit"
+			],
+			[
+				"one",
+				"onesDigit"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"thi",
+				"thirteen	(in_words_spec.rb)"
+			],
+			[
+				"ca",
+				"calculator	(rpn_calculator_spec.rb)"
+			],
+			[
+				"temp",
+				"temp"
+			],
+			[
+				"degree",
+				"degrees_farenheit"
+			],
+			[
+				"deg",
+				"degrees_celsius"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"se",
+				"seconds"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"tit",
+				"title_words"
+			],
+			[
+				"conjun",
+				"conjunction?"
+			],
+			[
+				"conj",
+				"conjunction?"
+			],
+			[
+				"new",
+				"new_title"
+			],
+			[
+				"tra",
+				"translates"
+			],
+			[
+				"str",
+				"str_arr"
+			],
+			[
+				"pow",
+				"power"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cls",
+				"cols"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"slide",
+				"sliderInt"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pri",
+				"prime_numbers_dividing"
+			],
+			[
+				"prim",
+				"prime_numbers_dividing"
+			],
+			[
+				"prime_",
+				"prime_numbers"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls",
+			"cd ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/radi/development/rails_projects/rest-helper/app",
+		"/home/radi/development/rails_projects/rest-helper/app/controllers",
+		"/home/radi/development/rails_projects/rest-helper/app/script",
+		"/home/radi/development/rails_projects/rest-helper/app/views",
+		"/home/radi/development/rails_projects/rest-helper/app/views/layouts",
+		"/home/radi/development/rails_projects/rest-helper/app/views/users"
+	],
+	"file_history":
+	[
+		"/home/radi/development/rails_projects/rest-helper/app/views/layouts/application.html.erb",
+		"/home/radi/development/rails_projects/rest-helper/app/controllers/users_controller.rb",
+		"/home/radi/development/rails_projects/rest-helper/app/script/rest_requestor.rb",
+		"/home/radi/development/rails_projects/rest-helper/app/views/users/new.html.erb",
+		"/home/radi/development/rails_projects/rest-helper/app/views/users/index.html.erb",
+		"/home/radi/development/rails_projects/rest-helper/app/views/users/edit.html.erb",
+		"/home/radi/development/rails_projects/rest-helper/app/views/users/show.html.erb",
+		"/home/radi/development/rails_projects/rest-helper/config/routes.rb",
+		"/home/radi/development/rails_projects/rest-client/README.md",
+		"/home/radi/development/rails_projects/rest-client/rest_client.rb",
+		"/home/radi/development/rails_projects/blogger/config/routes.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/tags/index.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/authors_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/application_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/comments_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/tags_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/author_sessions_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/author_sessions/new.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/show.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/controllers/articles_controller.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/layouts/application.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/authors/index.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/authors/show.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/models/author.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/authors/_form.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/models/article.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/_form.html.erb",
+		"/home/radi/development/rails_projects/blogger/db/migrate/20151019100422_sorcery_core.rb",
+		"/home/radi/development/rails_projects/blogger/Gemfile",
+		"/home/radi/development/rails_projects/blogger/app/models/tag.rb",
+		"/home/radi/development/rails_projects/blogger/app/assets/stylesheets/styles.css.scss",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/index.html.erb",
+		"/home/radi/development/rails_projects/blogger/db/migrate/20151017143938_add_paperclip_fields_to_article.rb",
+		"/home/radi/development/rails_projects/blogger/app/helpers/articles_helper.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/tags/show.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/_comment.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/comments/_form.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/models/comment.rb",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/new.html.erb",
+		"/home/radi/development/rails_projects/blogger/app/views/articles/edit.html.erb",
+		"/home/radi/development/rails_projects/blogger/db/migrate/20151016182301_create_articles.rb",
+		"/home/radi/development/rails_projects/portfolio/app/views/pages/portfolio.html.erb",
+		"/home/radi/development/rails_projects/portfolio/app/views/pages/welcome.html.erb",
+		"/home/radi/development/rails_projects/portfolio/app/views/layouts/application.html.erb",
+		"/home/radi/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/radi/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/radi/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/radi/development/rails_projects/portfolio/app/assets/stylesheets/application.css",
+		"/home/radi/development/rails_projects/portfolio/app/assets/javascripts/custom.js",
+		"/home/radi/development/rails_projects/portfolio/app/assets/stylesheets/pages.css.scss",
+		"/home/radi/.config/sublime-text-3/Packages/User/HTML (Rails).sublime-settings",
+		"/home/radi/.config/sublime-text-3/Packages/User/Ruby.sublime-settings",
+		"/home/radi/development/rails_projects/portfolio/app/assets/stylesheets/portfolio.css",
+		"/home/radi/development/ruby/test-ruby-first/15_in_words/in_words.rb",
+		"/home/radi/development/ruby/test-ruby-first/15_in_words/in_words_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/14_array_extensions/array_extensions_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/14_array_extensions/array_extensions.rb",
+		"/home/radi/development/ruby/test-ruby-first/13_xml_document/xml_document.rb",
+		"/home/radi/development/ruby/test-ruby-first/08_book_titles/book.rb",
+		"/home/radi/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/radi/development/ruby/test-ruby-first/12_rpn_calculator/rpn_calculator.rb",
+		"/home/radi/development/ruby/test-ruby-first/11_dictionary/dictionary.rb",
+		"/home/radi/development/ruby/test-ruby-first/11_dictionary/dictionary_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/10_temperature_object/temperature.rb",
+		"/home/radi/development/ruby/test-ruby-first/10_temperature_object/temperature_object_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/09_timer/timer.rb",
+		"/home/radi/development/ruby/test-ruby-first/09_timer/timer_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/08_book_titles/book_titles_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/07_hello_friend/hello_friend_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/07_hello_friend/friend.rb",
+		"/home/radi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/radi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/radi/development/ruby/test-ruby-first/05_silly_blocks/silly_blocks.rb",
+		"/home/radi/development/ruby/test-ruby-first/06_performance_monitor/performance_monitor.rb",
+		"/home/radi/development/ruby/test-ruby-first/05_silly_blocks/silly_blocks_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/02_calculator/calculator.rb",
+		"/home/radi/development/ruby/test-ruby-first/05_silly_blocks/index.html",
+		"/home/radi/development/ruby/test-ruby-first/04_pig_latin/silly_blocks.rb",
+		"/home/radi/development/ruby/test-ruby-first/04_pig_latin/pig_latin_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/04_pig_latin/pig_latin.rb",
+		"/home/radi/development/ruby/test-ruby-first/03_simon_says/simon_says.rb",
+		"/home/radi/development/ruby/test-ruby-first/03_simon_says/index.html",
+		"/home/radi/development/ruby/test-ruby-first/02_calculator/calculator_spec.rb",
+		"/home/radi/development/ruby/test-ruby-first/01_temperature/temperature.rb",
+		"/home/radi/development/ruby/test-ruby-first/Gemfile",
+		"/home/radi/development/ruby/test-ruby-first/00_hello/hello.rb",
+		"/home/radi/development/ruby/test-ruby-first/01_temperature/calculator.rb",
+		"/home/radi/development/ruby/test-ruby-first/00_hello/hello_spec.rb",
+		"/usr/local/heroku/vendor/gems/addressable-2.3.8/spec/spec_helper.rb",
+		"/usr/local/heroku/vendor/gems/launchy-2.4.3/spec/spec_helper.rb",
+		"/home/radi/development/javascript/etch-a-sketch/css/style.css",
+		"/home/radi/development/javascript/etch-a-sketch/js/custom.js",
+		"/home/radi/development/javascript/etch-a-sketch/index.html",
+		"/home/radi/development/javascript/etch-a-sketch/README.md",
+		"/home/radi/development/javascript/slider/js/slider.js",
+		"/home/radi/development/javascript/slider/css/slider.css",
+		"/home/radi/development/javascript/slider/index.html",
+		"/home/radi/development/javascript101/home.html",
+		"/home/radi/development/javascript101/js/solutions.js",
+		"/home/radi/development/javascript101/js/multiple_3_5.js",
+		"/home/radi/.profile~"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"require_login",
+			"root_path",
+			"calculator",
+			"definition",
+			"is_conjunction_preposition?",
+			"auto_complete",
+			"str",
+			"round",
+			"ceil",
+			"name",
+			"email",
+			"j",
+			"i",
+			"slideInt",
+			"sliderNext",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 428.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rest-helper.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"auth",
+				"app/controllers/authors_controller.rb"
+			],
+			[
+				"index",
+				"app/views/tags/index.html.erb"
+			],
+			[
+				"authsess",
+				"app/controllers/author_sessions_controller.rb"
+			],
+			[
+				"authco",
+				"app/controllers/authors_controller.rb"
+			],
+			[
+				"show",
+				"app/views/articles/show.html.erb"
+			],
+			[
+				"artico",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"comco",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"tagco",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"articon",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"applicatio",
+				"app/views/layouts/application.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
